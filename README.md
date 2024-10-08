@@ -1,6 +1,6 @@
 ![Gen Browser Logo](https://github.com/user-attachments/assets/6576e8dd-f2d9-4513-8e95-10462c675403)
 
-The Gen Browser started as a funny idea talking with friends. A "what if" scenario really. 
+The Gen Browser started as a "what if" scenario really. 
 
 What if web pages were generated as you need them, on any topic you needed?
 
