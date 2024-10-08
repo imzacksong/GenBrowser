@@ -1,0 +1,5 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+PyQt5==5.15.7
+PyQtWebEngine==5.15.6
+ollama==0.1.0
